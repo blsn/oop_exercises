@@ -11,5 +11,10 @@
 <a href="classes/10_constructor.php">Constructor</a><br>
 <a href="classes/11_inheritance.php">Inheritance</a><br>
 <a href="classes/12_abstract.php">Abstract class</a><br>
-<a href="classes/13_interfaces.php">Interfaces </a><br>
-<a href="classes/14_polymorphism.php">Polymorphism </a><br>
+<a href="classes/13_interfaces_1.php">Interfaces step #1</a><br>
+<a href="classes/13_interfaces_2.php">Interfaces step #2</a><br>
+<a href="classes/13_interfaces_3.php">Interfaces step #3</a><br>
+<a href="classes/13_interfaces_4.php">Interfaces step #4</a><br>
+<a href="classes/13_interfaces_5.php">Interfaces step #5</a><br>
+<a href="classes/13_interfaces_complex.php">Interfaces (another example)</a><br>
+<a href="classes/14_polymorphism.php">Polymorphism</a><br>

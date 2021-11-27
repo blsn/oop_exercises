@@ -58,4 +58,3 @@
     echo implode(", ", $userPrivileges);
     echo ".";    
 ?>
-
