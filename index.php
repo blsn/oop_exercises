@@ -17,4 +17,7 @@
 <a href="classes/13_interfaces_4.php">Interfaces step #4</a><br>
 <a href="classes/13_interfaces_5.php">Interfaces step #5</a><br>
 <a href="classes/13_interfaces_complex.php">Interfaces (another example)</a><br>
-<a href="classes/14_polymorphism.php">Polymorphism</a><br>
+<a href="classes/14_polymorphism.php">Polymorphism</a><br><br>
+
+<a href="diagonal_matrix.php">diagonal_matrix</a><br>
+
